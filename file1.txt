@@ -1,1 +1,5 @@
 menambahkan baris materi pull request
+menambahkan baris baru materi fetch
+menambahkan baris baru masih di fetch
+menambahkan baris difile1.txt materi pull
+uji coba materi fetch
