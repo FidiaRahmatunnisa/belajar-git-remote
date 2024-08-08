@@ -3,3 +3,5 @@ menambahkan baris baru materi fetch
 menambahkan baris baru masih di fetch
 menambahkan baris difile1.txt materi pull
 uji coba materi fetch
+contoh lagi
+user 2
